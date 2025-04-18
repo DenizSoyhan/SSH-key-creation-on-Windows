@@ -16,7 +16,7 @@ ssh-keygen -t ed25519 -C "your-own-github-email@address.com"
 ls: cannot access '/c/Users/UserName/.ssh': No such file or directory
 ```
 Perfect! It means we will start fresh. So no worries.
-If you already have keys just jump to the [Step 3](#step-3\)-see-our-key-pair)<br>
+If you already have keys just jump to the [Step 3](#step-3-see-our-key-pair)<br>
 
 ## Step 2) Create the SSH keys
 
